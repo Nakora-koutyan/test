@@ -1,0 +1,23 @@
+﻿2023/12/07 18:08:08 にビルドを開始しました。
+ログの詳細度は次のように設定されています: Normal。     1>ノード 2 上のプロジェクト "C:\Users\KBC12206071\Desktop\test\test\test\test\test.vcxproj" (Build ターゲット)。
+     1>PrepareForBuild:
+         ディレクトリ "C:\Users\KBC12206071\Desktop\test\test\test\x64\Debug\" を作成しています。
+         ディレクトリ "x64\Debug\test.tlog\" を作成しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "x64\Debug\test.tlog\unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KBC12206071\Desktop\test\test\test\x64\Debug\test.exe" /INCREMENTAL /ILK:"x64\Debug\test.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KBC12206071\Desktop\test\test\test\x64\Debug\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KBC12206071\Desktop\test\test\test\x64\Debug\test.lib" /MACHINE:X64 x64\Debug\main.obj
+         test.vcxproj -> C:\Users\KBC12206071\Desktop\test\test\test\x64\Debug\test.exe
+       FinalizeBuildStatus:
+         ファイル "x64\Debug\test.tlog\unsuccessfulbuild" を削除しています。
+         "x64\Debug\test.tlog\test.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\KBC12206071\Desktop\test\test\test\test\test.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.87
